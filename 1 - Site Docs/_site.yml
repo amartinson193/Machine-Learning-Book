@@ -1,6 +1,6 @@
-name: "Bioinformatics-Book"
+name: "Machine-Learning-Book"
 navbar:
-  title: "My Bioinformatics Book"
+  title: "My Machine Learning Book"
   left:
     - text: "Home"
       href: index.html
